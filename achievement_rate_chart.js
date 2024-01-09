@@ -14,6 +14,7 @@ function makeTeamlist(){
   var teamlist = ["A", "B", "C"]; // チームの増減で適宜変更
   return teamlist 
 }
+// ここまで
 
 function checkAndCreateSheet(sheet_name) {
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
