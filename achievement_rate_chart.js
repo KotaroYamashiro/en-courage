@@ -1,3 +1,12 @@
+/*
+Visualize_UA.gs : チームの数値管理のため、目標達成率のグラフ化を行う
+
+
+@proposer Yuta Takahashi[12th term]
+
+@author Kotaro Yamashiro[12th term] <kotaroyamashiro816@gmail.com>バグったら連絡ください
+*/
+
 // ここは適宜変更してください
 function setting(team){
   /*
